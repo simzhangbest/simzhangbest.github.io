@@ -1,0 +1,8 @@
+name: Alpha
+description: Alphs template for Jekyll
+baseurl: '/Alpha-Jekyll-Theme'
+
+url: "simzhangbest.github.io"
+title : "simzhangbest's daily blog"
+paginate: 10
+
